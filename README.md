@@ -19,7 +19,8 @@ pip install pandas numpy matplotlib seaborn plotly-express streamlit
 How to Run the App
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ZeinabMahfouz/Zomatos_EDA_Straemlit
+.git
 cd your-repo-name
 
 
